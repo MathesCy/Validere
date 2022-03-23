@@ -37,10 +37,10 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 
 ## Analysis
 
-When the dataset is broken down by commodity type and failure cause, we see the resulting distribution of accidents reported in the U.S since 2010 
+When the dataset is broken down by commodity type and failure cause, we see the resulting distribution of accidents reported in the U.S since 2010. 
 
 
-|  Commodity Type          | Corrosion      | Material/Weld/Equipment Failure | Excavation Damage  | Incorrect Operation  | Natural Force | Other Force  | 
+|  Commodity       | Corrosion      | Material/Weld/Equipment Failure | Excavation Damage | Incorrect Operation  | Natural Force | Other Force  | 
 | ------------ |---------------| -----------------------  |------------       |---------------     | ----------    | ------------ | 
 | Biofuel       | 1            | 3                        | 0                 | 2                  | 0             |0      | 
 | CO2           | 7            |   44                     | 0                 | 10                  |   1         | 1     |  
@@ -48,7 +48,7 @@ When the dataset is broken down by commodity type and failure cause, we see the 
 | HVL           | 65           |   505                     | 33                | 76                 |   30         | 19      |  
 | Refined Products | 218       |   832                     | 54               | 240                 |     86          | 29     |   
 
-
+As it has been established that this analysis will focuson on Corrosion induced failure, most of these re
 
 Commodity Type | Corrosive Failures
 ------------- | -------------
