@@ -39,6 +39,15 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 
 
 
+|               | Corrosion      | Material/Weld Failure | Excavation Damage  | Incorrect Operation  | Natural Force | Other Force  | 
+| ------------ |---------------| -----------------------  |------------       |---------------     | ----------    | ------------ | 
+| Biofuel       | some wordy text | $1600                      | col 3 is           | some wordy text      | $1600          |col 3 is      | 
+| CO2           | centered        |   $12                      | col 2 is           | centered              |   $12         | col 2 is     |  
+| Crude Oil     | some wordy text | $1600                      | col 3 is           | some wordy text       | $1600         |col 3 is      | 
+| HVL           | centered        |   $12                      | col 2 is           | centered              |   $12        | col 2 is      |  
+| Refined Products | centered     |   $12                      | col 2 is           | centered              |   $12        | col 2 is      |   
+
+
 
 Commodity Type | Corrosive Failures
 ------------- | -------------
