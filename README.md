@@ -85,8 +85,12 @@ Crude Oil      | 0.000608
 HVL            | 7.33e-06             
 Refined Product | 0.000113              
 
-Based on these results there appears to exist some relationship between crude oil carrying pipeline systems and internal corrosion failure. To evaluate the statistical signifiance of these results a chi-squared test was performed. 
+Based on these results it can be definitively stated that pipeline systems carrying crude oil experience failure due to internal corrosion at a far higher rate than any other sub category of Hazardous Liquid pipeline.
 
-Due to the
+Another point worth noting, is that if this exercise is repeated in order to calculate incidence rates for other failure types in order to produce the table below, it can be seen that crude oil pipelines don't experience any other kind of failure at an above average rate when compared to other types of pipeline systems. This also supports the initial assumption to look exclusively at internal corrosion failures. 
+
+
+
+
 
 
