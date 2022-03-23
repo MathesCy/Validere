@@ -40,7 +40,7 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 When the dataset is broken down by commodity type and failure cause, we see the resulting distribution of accidents reported in the U.S since 2010. 
 
 
-FailureType.png
+![alt text](https://github.com/MathesCy/Validere/blob/main/FailureType.jpg?raw=true)
 
 
 
