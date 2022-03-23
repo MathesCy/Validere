@@ -37,15 +37,16 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 
 ## Analysis
 
+When the dataset is broken down by commodity type and failure cause, we see the resulting distribution of accidents reported in the U.S since 2010 
 
 
-|               | Corrosion      | Material/Weld Failure | Excavation Damage  | Incorrect Operation  | Natural Force | Other Force  | 
+|  Commodity Type          | Corrosion      | Material/Weld/Equipment Failure | Excavation Damage  | Incorrect Operation  | Natural Force | Other Force  | 
 | ------------ |---------------| -----------------------  |------------       |---------------     | ----------    | ------------ | 
-| Biofuel       | some wordy text | $1600                      | col 3 is           | some wordy text      | $1600          |col 3 is      | 
-| CO2           | centered        |   $12                      | col 2 is           | centered              |   $12         | col 2 is     |  
-| Crude Oil     | some wordy text | $1600                      | col 3 is           | some wordy text       | $1600         |col 3 is      | 
-| HVL           | centered        |   $12                      | col 2 is           | centered              |   $12        | col 2 is      |  
-| Refined Products | centered     |   $12                      | col 2 is           | centered              |   $12        | col 2 is      |   
+| Biofuel       | 1            | 3                        | 0                 | 2                  | 0             |0      | 
+| CO2           | 7            |   44                     | 0                 | 10                  |   1         | 1     |  
+| Crude Oil     | 675          | 1083                     | 79                 | 354                | 102          |44     | 
+| HVL           | 65           |   505                     | 33                | 76                 |   30         | 19      |  
+| Refined Products | 218       |   832                     | 54               | 240                 |     86          | 29     |   
 
 
 
