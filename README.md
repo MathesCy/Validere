@@ -20,14 +20,16 @@ Although this report will focus specifically on the realationship between crude 
 3) Highly volatile liquid releases of 5 barrels or more or other liquid releases of 50 barrels or more.
 4) Liquid releases resulting in an unintentional fire or explosion.
 
-Finally, before attempting to analyze how crude oil causes pipeline failure, it must first be understood how PHMSA categorizes cause failure in their data collection process. Broadly speaking, the PHMSA recognizes seven distinct causes of pipeline failure.
+Finally, before attempting to analyze how crude oil causes pipeline failure, it must first be understood how PHMSA categorizes cause failure in their data collection process. Broadly speaking, the PHMSA recognizes six distinct causes of pipeline failure.
 
 1) Corrosion 
 2) Excavation Damage
 3) Incorrect Operation
 4) Material/Weld/Equipment Failure
 5) Natural Force Damage
-6) 
+6) Other Outside Force
+
+
 
 
 
