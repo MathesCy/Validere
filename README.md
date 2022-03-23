@@ -40,4 +40,13 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 
 
 
+Commodity Type | Corrosive Failures
+------------- | -------------
+Crude Oil  | 675
+HVL | 65
+Refined Products | 218
+CO2 | 7
+Biofuel | 1
+
+
 
