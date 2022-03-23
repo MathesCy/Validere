@@ -13,5 +13,18 @@ The primary dataset used in this report contains a summary of pipeline accidents
 4) HVL
 5) Refined/Petroluem Products
 
-Although this report
+Although this report will focus specifically on the realationship between crude oil and pipeline accidents, the dataset contains records for other commodities. Also worth noting is that not all pipeline incidents are considered reportable. The PHMSA only requires an operator to report a pipeline incident in the event that any of the following occur. 
+
+1) Fatality or injury requiring hospitalization.
+2) Estimated property damage, including cost of clean-up and recovery, value of lost product, and damage to the property of the operator or others, or        both, exceeding $50,000.
+3) Highly volatile liquid releases of 5 barrels or more or other liquid releases of 50 barrels or more.
+4) Liquid releases resulting in an unintentional fire or explosion.
+
+Finally, before attempting to analyze how crude oil causes pipeline failure, it must first be understood how the PHMSA categorizes the cause failure. Broadly speaking, the PHMSA recognizes seven distinct kind of pipeline failure.
+
+1) Corrosion 
+
+
+
+
 
