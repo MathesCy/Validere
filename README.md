@@ -33,7 +33,10 @@ For the purposes of this report, it should be noted that some of these categorie
 
 In fact, of these six categories, the only one that can be viewed as directly related to the physical contents of the pipeline itself, is Corrosion. Excavation Damage refers to incidents in which pipelines are inadvertently damaged by excavating equiment. Incorrect Operation is the result of operator error, and Natural Force Damage arises from naturally occuring external forces, such earthquakes or hurricanes. Finally, Material/Weld/Equipment failures result from improper maintenance or component selection, or flaws in the construction of the pipeline and supporting apparatus. Since the focus of this report is specifically on the relationship between the physical and chemical properties of crude oil and pipeline failure, the analysis will focus exclusively on Corrosion failures. 
 
-NOTE: There is an arugment to be made that the specific physical and chemical properties of crude oil could indirectly result in an increase in the incidence rate of other failure types by impacting how and where pipelines are built, and as a consequence how they're operated and how the surrounding environment interact with them. 
+NOTE: There is an arugment to be made that the specific physical and chemical properties of crude oil could indirectly result in an increase in the incidence rate of other failure types by impacting how and where pipelines are built, and as a consequence how they're operated and how their surrounding environment interacts with them. 
+
+## Analysis
+
 
 
 
