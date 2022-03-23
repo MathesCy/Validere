@@ -60,13 +60,13 @@ This can be broken down further by looking at each cause of failure based on the
 
 Since the focus of this report is specifically on crude oil and corrosion failures, the dataset will be reduced down to look only at cases where the cause of failure was identified as 'Corrosion'. However, within each cause category there exists a sub category that needs to be considered. In the case of the 'Corrosion' category, the sub-categories are 'Internal' and 'External'. Internal corrosion failure refers to pipeline accidents resulting from corrosion on the inside of the pipeline due to chemical interactions between the pipeline metal and the contents of the pipe. External corrosion is the result of interactions between the outside of the pipe and its surrounding. Since the physical/chemical properties of the contents of the pipe would have no impact on how the pipe interacts with its external surroundings, the dataset will be reduced even further to look only at cases resulting from Internal Corrosion.
 
-Commodity Type | Corrosive Failures
-------------- | -------------
-Crude Oil  | 675
-HVL | 65
-Refined Products | 218
-CO2 | 7
-Biofuel | 1
+Commodity Type | Internal Corrosion| External Corrosion
+-------------  | ------------- | -------------
+Biofuel        | 0             | 1
+CO2            | 0             |    7
+Crude Oil      | 516           | 159
+HVL            | 5             | 60
+Refined Product      | 83              | 135
 
 
-
+Looking purely at the number of occurences for a certain type of failure experienced by pipelines carrying a given commodity could produce distorted results. From the data shown above, it's apparent that crude oil pipelines have experienced significantly more internal corrosion failures than any other sub category of pipeline system over the past 12 years. However, this data does nothing to account for the fact that certain types of pipeline systems might be more prevalent than others. 
