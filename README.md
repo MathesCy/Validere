@@ -69,4 +69,9 @@ HVL            | 5             | 60
 Refined Product | 83              | 135
 
 
-Looking purely at the number of occurences of a certain type of failure experienced by pipelines carrying a given commodity would produce distorted results. From the data shown above, it's apparent that crude oil pipelines have experienced significantly more internal corrosion failures than any other sub category of Hazardous Liquid pipeline system over the past 12 years. However, this fails to account for the the fact that certain types of pipeline systems are more prevalent than others. 100 miles of pipeline represents more of an opportunity for failure than 10. To account for this, PHMSA data on pipeline mileage going back to 2010 was used to calculate failure incidence rates on a per mile basis for each commodity type. The   
+Looking purely at the number of occurences of a certain type of failure experienced by pipelines carrying a given commodity would produce distorted results. From the data shown above, it's apparent that crude oil pipelines have experienced significantly more internal corrosion failures than any other sub category of Hazardous Liquid pipeline system over the past 12 years. However, this fails to account for the the fact that certain types of pipeline systems are more prevalent than others. 100 miles of pipeline represents more opportunity for failure than 10. To account for this, PHMSA data on pipeline mileage going back to 2010 was used to calculate failure incidence rates on a per mile basis for each commodity type. 
+
+The graph below shows the comparative incidence rates observed for internal corrosion failures broken down by the commodity type of the pipeline. It can be seen than on average, even when normalizing to account for pipeline mileage, systems carrying crude oil experience internal corrosion incidents at more than twice the rate of any other system.
+
+
+
