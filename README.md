@@ -20,7 +20,7 @@ Although this report will focus specifically on the realationship between crude 
 3) Highly volatile liquid releases of 5 barrels or more or other liquid releases of 50 barrels or more.
 4) Liquid releases resulting in an unintentional fire or explosion.
 
-Finally, before attempting to analyze how crude oil causes pipeline failure, it must first be understood how PHMSA categorizes cause failure in their data collection process. Broadly speaking, the PHMSA recognizes six distinct causes of pipeline failure.
+Finally, before attempting to analyze what attributes of crude oil contribute to pipeline failure, it must first be understood how PHMSA categorizes cause failure in their data collection process. Broadly speaking, the PHMSA recognizes six distinct causes of pipeline failure.
 
 1) Corrosion 
 2) Excavation Damage
@@ -29,8 +29,9 @@ Finally, before attempting to analyze how crude oil causes pipeline failure, it 
 5) Natural Force Damage
 6) Other Outside Force
 
+For the purposes of this report, it should be noted that some of these categories won't be seen as relevant to the analysis. For instance the category 'Other Outside Force' which refers to pipeline accident's caused by an non-natural external force (e.g. vandalism, vehicle accident) would not be relevant in this analysis because the frequency of these events is unrelated to the physical or chemical properties of the pipelines contents. 
 
-
+In fact, of these six categories, the only one that can be viewed as directly related to the physical contents of the pipeline itself, is Corrosion. Excavation Damage refers to incidents in which pipelines are inadvertently damaged by excavating equiment. Incorrect Operation is the result of operator error and Natural Force Damage arises from naturally occuring external forces, such earthquakes or hurricanes. Finally, Material/Weld/Equipment failure  
 
 
 
