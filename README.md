@@ -75,5 +75,16 @@ The graph below shows the comparative incidence rates observed for internal corr
 
 ![alt text](https://github.com/MathesCy/Validere/blob/main/FailureRate.png)
 
+Averaging the incidence rate over the course of the full term of the available data, the resulting average rate of internal corrosion failure is calculated for each pipeline system
+
+Commodity Type | Failure Rate 
+-------------  | ------------- 
+Biofuel        | 0             
+CO2            | 0             
+Crude Oil      | 0.000608           
+HVL            | 7.33e-06             
+Refined Product | 0.000113              
+
+
 
 
