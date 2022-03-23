@@ -13,7 +13,7 @@ The primary dataset used in this report contains a summary of pipeline accidents
 4) HVL
 5) Refined/Petroluem Products
 
-Although this report will focus specifically on the relationship between crude oil and pipeline accidents, the dataset contains records for other commodities. Also worth noting is that not all pipeline incidents are considered reportable. The PHMSA only requires an operator to report a pipeline incident in the event that any of the following occur. 
+Although this report will focus specifically on the relationship between crude oil and pipeline accidents, the dataset contains records for other commodities. Also worth noting is that not all pipeline incidents are considered reportable. The PHMSA only requires an operator to report pipeline incidens where the following occur. 
 
 1) Fatality or injury requiring hospitalization.
 2) Estimated property damage, including cost of clean-up and recovery, value of lost product, and damage to the property of the operator or others, or        both, exceeding $50,000.
