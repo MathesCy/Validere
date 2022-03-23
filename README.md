@@ -37,10 +37,14 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 
 ## Analysis
 
-When the dataset is broken down by commodity type and failure cause, we see the resulting distribution of accidents reported in the U.S since 2010. 
+
+When the dataset is broken down by cause of failure, we see the resulting distribution of accidents reported in the U.S since 2010. 
 
 
 ![alt text](https://github.com/MathesCy/Validere/blob/main/FailureType.png)
+
+
+It can be seen that over the past 12 years, Equipment Failure has been the leading cause of pipeline failure, accounting for 45.7% of all reported events. Behind Equipment Failure, Corrosion has been identified as for 20.5% of reported
 
 
 
@@ -52,7 +56,8 @@ When the dataset is broken down by commodity type and failure cause, we see the 
 | HVL           | 65           |   505                     | 33                | 76                 |   30         | 19      |  
 | Refined Products | 218       |   832                     | 54               | 240                 |     86          | 29     |   
 
-As it has been established that this analysis will focuson on Corrosion induced failure, most of these re
+
+It can be seen that 
 
 Commodity Type | Corrosive Failures
 ------------- | -------------
