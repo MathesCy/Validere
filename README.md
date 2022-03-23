@@ -38,14 +38,15 @@ NOTE: There is an arugment to be made that the specific physical and chemical pr
 ## Analysis
 
 
-When the dataset is broken down by cause of failure, we see the resulting distribution of accidents reported in the U.S since 2010. 
+When the dataset is broken down by cause of failure, it produces the resulting distribution of accidents reported in the U.S since 2010. 
 
 
 ![alt text](https://github.com/MathesCy/Validere/blob/main/FailureType.png)
 
 
-It can be seen that over the past 12 years, Equipment Failure has been the leading cause of pipeline failure, accounting for 45.7% of all reported events. Behind Equipment Failure, Corrosion has been identified as for 20.5% of reported
+It can be seen that over the past 12 years, qquipment failure has been the leading cause of pipeline failure, accounting for 45.7% of all reported events. Behind qquipment failure, corrosion has been identified as the cause for 20.5% of reported incidents.
 
+This can be broken down further by looking at each cause of failure based on the type of commodity carried in the pipeline where the accident occured. Of the five commodity types, pipelines carrying crude oil have experienced over half of the reported accidents since 2010, with 50.7% occuring in crude oil Hazardous Liquid pipeline systems. 
 
 
 |  Commodity       | Corrosion      | Material/Weld/Equipment Failure | Excavation Damage | Incorrect Operation  | Natural Force | Other Force  | 
@@ -57,7 +58,7 @@ It can be seen that over the past 12 years, Equipment Failure has been the leadi
 | Refined Products | 218       |   832                     | 54               | 240                 |     86          | 29     |   
 
 
-It can be seen that 
+Since the focus of this report is specifically on crude oil and corrosion failures, the dataset will be reduced down to look only at cases where the cause of failure was identified as 'Corrosion'. However, within each cause category there exists a sub category that needs to be considered. In the case of the 'Corrosion' category, the sub-categories are 'Internal' and 'External'. Internal corrosion failure refers to pipeline accidents resulting from corrosion on the inside of the pipeline due to chemical interactions between the pipeline metal and the contents of the pipe. External corrosion is the result of interactions between the outside of the pipe and its surrounding. Since the physical/chemical properties of the contents of the pipe would have no impact on how the pipe interacts with its external surroundings, the dataset will be reduced even further to look only at cases resulting from Internal Corrosion.
 
 Commodity Type | Corrosive Failures
 ------------- | -------------
