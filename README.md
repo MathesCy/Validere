@@ -66,7 +66,7 @@ Biofuel        | 0             | 1
 CO2            | 0             |    7
 Crude Oil      | 516           | 159
 HVL            | 5             | 60
-Refined Product      | 83              | 135
+Refined Product | 83              | 135
 
 
-Looking purely at the number of occurences for a certain type of failure experienced by pipelines carrying a given commodity could produce distorted results. From the data shown above, it's apparent that crude oil pipelines have experienced significantly more internal corrosion failures than any other sub category of pipeline system over the past 12 years. However, this data does nothing to account for the fact that certain types of pipeline systems might be more prevalent than others. 
+Looking purely at the number of occurences of a certain type of failure experienced by pipelines carrying a given commodity would produce distorted results. From the data shown above, it's apparent that crude oil pipelines have experienced significantly more internal corrosion failures than any other sub category of Hazardous Liquid pipeline system over the past 12 years. However, this fails to account for the the fact that certain types of pipeline systems are more prevalent than others. 
