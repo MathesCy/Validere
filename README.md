@@ -85,6 +85,8 @@ Crude Oil      | 0.000608
 HVL            | 7.33e-06             
 Refined Product | 0.000113              
 
+Based on these results there appears to exist some relationship between crude oil carrying pipeline systems and internal corrosion failure. To evaluate the statistical signifiance of these results a chi-squared test was performed. 
 
+Due to the
 
 
