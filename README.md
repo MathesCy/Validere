@@ -73,5 +73,7 @@ Looking purely at the number of occurences of a certain type of failure experien
 
 The graph below shows the comparative incidence rates observed for internal corrosion failures broken down by the commodity type of the pipeline. It can be seen than on average, even when normalizing to account for pipeline mileage, systems carrying crude oil experience internal corrosion incidents at more than twice the rate of any other system.
 
+![alt text](https://github.com/MathesCy/Validere/blob/main/FailureRate.png)
+
 
 
