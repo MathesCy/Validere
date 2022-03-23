@@ -29,9 +29,11 @@ Finally, before attempting to analyze what attributes of crude oil contribute to
 5) Natural Force Damage
 6) Other Outside Force
 
-For the purposes of this report, it should be noted that some of these categories won't be seen as relevant to the analysis. For instance the category 'Other Outside Force' which refers to pipeline accident's caused by an non-natural external force (e.g. vandalism, vehicle accident) would not be relevant in this analysis because the frequency of these events is unrelated to the physical or chemical properties of the pipelines contents. 
+For the purposes of this report, it should be noted that some of these categories won't be seen as relevant to the analysis. For instance, the category 'Other Outside Force' which refers to pipeline accidents caused by any non-natural external force (e.g. vandalism, vehicle accident) would not be relevant in this analysis because the frequency of these events is unrelated to the physical or chemical properties of the pipelines contents. 
 
-In fact, of these six categories, the only one that can be viewed as directly related to the physical contents of the pipeline itself, is Corrosion. Excavation Damage refers to incidents in which pipelines are inadvertently damaged by excavating equiment. Incorrect Operation is the result of operator error and Natural Force Damage arises from naturally occuring external forces, such earthquakes or hurricanes. Finally, Material/Weld/Equipment failure  
+In fact, of these six categories, the only one that can be viewed as directly related to the physical contents of the pipeline itself, is Corrosion. Excavation Damage refers to incidents in which pipelines are inadvertently damaged by excavating equiment. Incorrect Operation is the result of operator error, and Natural Force Damage arises from naturally occuring external forces, such earthquakes or hurricanes. Finally, Material/Weld/Equipment failures result from improper maintenance or component selection, or flaws in the construction of the pipeline and supporting apparatus. Since the focus of this report is specifically on the relationship between the physical and chemical properties of crude oil and pipeline failure, the analysis will focus exclusively on Corrosion failures. 
+
+NOTE: There is an arugment that exists 
 
 
 
