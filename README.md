@@ -5,4 +5,12 @@ This report has been created with the objective of identifying which physical or
 
 ## Background 
 
-The primary dataset analyzed in this report contains a summary of pipeline accidents reported in the United States spanning from January 2010 to Present Day. Before
+The primary dataset used in this report contains a summary of pipeline accidents recorded in the United States spanning from January 2010 to Present Day. Before any kind of analysis can be performed, the limitations of this data, and the circumstances under which it was collected must first be understood. The data sourced from the PHMSA specifically details the incidents reported on Hazardous Liquid or CO2 pipeline systems, this is a broader categorization for pipeline systems carrying any of the following commodities. 
+
+1) Biofuel/Alternative Fuel (Including Ethanol Blends)
+2) CO2
+3) Crude Oil
+4) HVL
+5) Refined/Petroluem Products
+
+
