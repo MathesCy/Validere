@@ -44,7 +44,7 @@ When the dataset is broken down by cause of failure, it produces the resulting d
 ![alt text](https://github.com/MathesCy/Validere/blob/main/FailureType.png)
 
 
-It can be seen that over the past 12 years, qquipment failure has been the leading cause of pipeline failure, accounting for 45.7% of all reported events. Behind qquipment failure, corrosion has been identified as the cause for 20.5% of reported incidents.
+It can be seen that over the past 12 years, equipment failure has been the leading cause of pipeline failure, accounting for 45.7% of all reported events. Behind equipment failure, corrosion has been identified as the cause for 20.5% of reported incidents.
 
 This can be broken down further by looking at each cause of failure based on the type of commodity carried in the pipeline where the accident occured. Of the five commodity types, pipelines carrying crude oil have experienced over half of the reported accidents since 2010, with 50.7% occuring in crude oil Hazardous Liquid pipeline systems. 
 
@@ -107,10 +107,11 @@ In order to accomplish this, a secondary dataset was used that catalogues the va
 
 In order to narrow the scope of the search, consideration was given to the traditional causes of corrosion. In general, corrosion can result from excessive humidity or condensation on a metal surface, or the presence of corrosive chemicals such as chlorine, hydrogen oxides or sulfur oxides. In the context of crude oil, water and sulfur content are important product characteristics, so the data provided by Environment Canada includes these specifications for each of the products listed. 
 
-By looking at the water and sulfur content of the crude oil products included in the dataset versus the refined petroleum products t can be seen that on average crude oil products possess a substantially higher content of both water and sulfur.  
+By looking at the water and sulfur content of the crude oil products included in the dataset versus the refined petroleum products it can be seen that on average crude oil products possess a substantially higher content of both water and sulfur.  
 
 ![alt text](https://github.com/MathesCy/Validere/blob/main/ChemCont.png)
 
+Calculating the average sulfur and water content for crude/unrefined products versus refined produces the table below.
 
 Characteristic | Crude Oil| Refined Products
 -------------  | ------------- | -------------
