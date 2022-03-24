@@ -109,6 +109,8 @@ In order to narrow the scope of the search, consideration was given to the tradi
 
 By looking at the water and sulfur content of the crude oil products versus the refined petroleum products included in the Environment Canada dataset it can be seen that on average crude oil products possess a substantially higher content of both water and sulfur. 
 
+![alt text](https://github.com/MathesCy/Validere/blob/main/ChemCont.png)
+
 
 
 
