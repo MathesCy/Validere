@@ -101,5 +101,4 @@ NOTE: Due to a lack of data the Biofuel/Ethanol pipeline incidents were not cons
 | Other Force           | 5.043-05      |   3.21e-05                     | 4.11e-05               | 0.000834                |     86          | 29     |   
 
 
-
-
+With these results t
