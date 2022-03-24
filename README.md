@@ -107,12 +107,15 @@ In order to accomplish this, a secondary dataset was used that catalogues the va
 
 In order to narrow the scope of the search, consideration was given to the traditional causes of corrosion. In general, corrosion can result from excessive humidity or condensation on a metal surface, or the presence of corrosive chemicals such as chlorine, hydrogen oxides or sulfur oxides. In the context of crude oil, water and sulfur content are important product characteristics, so the data provided by Environment Canada includes these specifications for each of the products listed. 
 
-By looking at the water and sulfur content of the crude oil products versus the refined petroleum products included in the Environment Canada dataset it can be seen that on average crude oil products possess a substantially higher content of both water and sulfur. 
+By looking at the water and sulfur content of the crude oil products included in the dataset versus the refined petroleum products t can be seen that on average crude oil products possess a substantially higher content of both water and sulfur.  
 
 ![alt text](https://github.com/MathesCy/Validere/blob/main/ChemCont.png)
 
 
-
+Characteristic | Crude Oil| Refined Products
+-------------  | ------------- | -------------
+Sulfur %w/w       | 1.55            | 0.31
+Water %w/w            | 1.37             |    0.79
 
 
 
