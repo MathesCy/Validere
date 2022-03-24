@@ -101,4 +101,16 @@ NOTE: Due to a lack of data the Biofuel/Ethanol pipeline incidents were not cons
 | Other Force           | 5.043-05      |   3.21e-05                     | 4.11e-05               | 0.000834                |     86          | 29     |   
 
 
-With these results t
+With these results indicating an apparent relationship between the presence of crude oil in a pipeline system and the incidence rate of internal corrosion, the task becomes identifying which physcial or chemical properties of crude oil contribute to this corrosion. 
+
+In order to accomplish this, a secondary dataset was used that catalogues the various physical and chemical properties for crude oil and other refined petroleum products. By looking at what characteristics crude oil possess when compared to refined products, it may be possible to determine which factors are contributing to the increase in corrosion incidence. This dataset was collected by Environment Canada and contains information gathered from crude oil and refined product samples from around the world.  
+
+In order to narrow the scope of the search, consideration was given to the traditional causes of corrosion. In general, corrosion can result from excessive humidity or condensation on a metal surface, or the presence of corrosive chemicals such as chlorine, hydrogen oxides or sulfur oxides. In the context of crude oil, water and sulfur content are important product characteristics, so the data provided by Environment Canada includes these specifications for each of the products listed. 
+
+By looking at the water and sulfur content of the crude oil products versus the refined petroleum products included in the Environment Canada dataset it can be seen that on average crude oil products possess a substantially higher content of both water and sulfur. 
+
+
+
+
+
+
