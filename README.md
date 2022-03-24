@@ -87,9 +87,18 @@ Refined Product | 0.000113
 
 Based on these results it can be definitively stated that pipeline systems carrying crude oil experience failure due to internal corrosion at a far higher rate than any other sub category of Hazardous Liquid pipeline.
 
-Another point worth noting, is that if this exercise is repeated in order to calculate incidence rates for other failure types in order to produce the table below, it can be seen that crude oil pipelines don't experience any other kind of failure at an above average rate when compared to other types of pipeline systems. This also supports the initial assumption to look exclusively at internal corrosion failures. 
+Another point worth noting, is that if this exercise is repeated in order to calculate incidence rates on a per mile basis for other failure types it results in the table shown below. It can be seen that crude oil pipelines don't experience any other kind of failure at an above average rate when compared to other types of pipeline systems. This also supports the initial assumption to look exclusively at internal corrosion failures. 
+
+NOTE: Due to a lack of data the Biofuel/Ethanol pipeline incidents were not considered in the creation of this table.
 
 
+|  Failure Type      | Crude Oil      | HVL  | Refined Products  | CO2 | 
+| ------------       |---------------| -----------------------   |---------------     | ----------    | 
+| Material/Weld/Equipment Failure | 0.001056       | 0.000615                        | 0.001073                 | 0.000893           | 0             | 
+| Excavation          | 8.09e-05            |   4.01e-05                     | 6.47e-05                  | 0.001262                  |   1         |   
+| Incorrect Operation  | 0.000352          | 8.35e-05                     | 0.000309                 | 0.005689                | 102          | 
+| Natural Force        | 9.97e-05           |   3.34e-05                     | 0.000118                | 0.001650                 |   30         | 
+| Other Force           | 5.043-05      |   3.21e-05                     | 4.11e-05               | 0.000834                |     86          | 29     |   
 
 
 
