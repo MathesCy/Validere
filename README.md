@@ -117,5 +117,7 @@ Characteristic | Crude Oil| Refined Products
 Sulfur %w/w       | 1.55            | 0.31
 Water %w/w            | 1.37             |    0.79
 
+## Conclusion
 
+Although this does not conclusively confirm that the sulfur and water content in crude oil is exclusively responsible for pipeline accidents, it does provide a positive indication that it could be a significant source of the problem. Implementing stricter quality controls concerning the water and sulfur content of crude entering certain pipelines may potentially help to limit the rate at which these events occur. 
 
