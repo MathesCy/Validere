@@ -121,3 +121,13 @@ Water %w/w            | 1.37             |    0.79
 
 Although this does not conclusively confirm that the sulfur and water content in crude oil is exclusively responsible for pipeline accidents, it does provide a positive indication that it could be a significant source of the problem. Implementing stricter quality controls concerning the water and sulfur content of crude entering certain pipelines may potentially help to limit the rate at which these events occur. 
 
+## Data Sources
+
+https://www.phmsa.dot.gov/data-and-statistics/pipeline/annual-report-mileage-hazardous-liquid-or-carbon-dioxide-systems
+
+https://open.canada.ca/data/en/dataset/53c38f91-35c8-49a6-a437-b311703db8c5
+
+https://www.phmsa.dot.gov/data-and-statistics/pipeline/distribution-transmission-gathering-lng-and-liquid-accident-and-incident-data
+
+
+
